@@ -1,7 +1,7 @@
-package com.pacosignes.tema9.ex8;
+package com.pacosignes.tema9.ex10;
 import java.util.Scanner;
 
-public class Ex8 {
+public class Ex10 {
 
 
     public static void main(String[] args) {
